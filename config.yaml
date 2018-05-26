@@ -1,11 +1,10 @@
 baseURL: https://donovanmuller.blog/
 languageCode: en-us
 title: Donovan Muller
-
 theme: hyde
 
 permalinks:
-  post: /:year/:month/:title/
+  posts: /:title/
 
 params:
     description: Development << and stuff
