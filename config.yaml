@@ -7,4 +7,14 @@ permalinks:
   posts: /:title/
 
 params:
-    description: Development << and stuff
+    themeColor: theme-base-donovanmuller
+    layoutReverse: true    
+    description: |-
+      Personal tech blog of Donovan Muller. 
+      Java, Spring, Kubernetes and some stuff in between
+
+menu:
+  main:
+  - identifier: about
+    name: About
+    url: https://stackoverflow.com/story/donovanmuller
