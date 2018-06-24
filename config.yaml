@@ -18,3 +18,5 @@ menu:
   - identifier: about
     name: About
     url: https://stackoverflow.com/story/donovanmuller
+
+googleAnalytics: UA-121354786-1
