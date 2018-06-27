@@ -7,7 +7,7 @@ A Spring Cloud Deployer SPI implementation which extends Spring Cloud Deployer K
 
 > _Update (2017/02/19)_: Since this post was written, a [1.1.0](https://github.com/donovanmuller/spring-cloud-dataflow-server-openshift/releases/tag/v1.1.0.RELEASE) release of the [Spring Cloud Data Flow Server for OpenShift](https://github.com/donovanmuller/spring-cloud-dataflow-server-openshift) has been released. This release simplified the deployment of the server in an OpenShift environment using [Templates](https://docs.openshift.org/latest/dev_guide/templates.html) and should be considered the **recommended deployment mechanism**. For more information, see the reference documentation and specifically the ["Getting Started"](https://donovanmuller.github.io/spring-cloud-dataflow-server-openshift/docs/1.1.0.RELEASE/reference/htmlsingle#getting-started) section.
 
-## Some ApplicationContext
+## Some ApplicationContext.png
 
 I've been following the progress of the [Spring Cloud Data Flow](http://cloud.spring.io/spring-cloud-dataflow/) project for some time, with great interest. The concept of composing singularly focused, yet standalone apps, into a directed graph (defined as a [stream](http://cloud.spring.io/spring-cloud-stream/) or [task](http://cloud.spring.io/spring-cloud-task/)) of functionality encompassing a bounded context (in DDD terms), rather excites me.
 
